@@ -9,7 +9,6 @@
 
 ### 🔧 Ne yapıyoruz
 - **Robotik ve otomasyon** — mühendislik projeleri, prototipler ve kontrol yazılımları
-- **MİRFİX Yapı Kimyasalları** — ürün kataloğu, teknik föyler ve baskıya hazır doküman üretimi
 - **İş araçları** — sipariş, stok ve katalog yönetimi için küçük web uygulamaları
 - **Hobi projeleri** — satranç motoru, oyun prototipleri
 
